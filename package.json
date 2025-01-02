@@ -1,0 +1,12 @@
+{
+  "name": "wildlife-detector",
+  "version": "1.0.0",
+  "description": "Wildlife Detection Application",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "25.9.8"
+  }
+}
