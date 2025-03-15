@@ -1,6 +1,8 @@
 # Wildlife Detector 🦁
 
 Real-time wildlife detection application using MegaDetector and computer vision, built with Electron and Python.
+![](Normal.png)
+![](Elephant.png)
 
 ## ✨ Features
 - 🎥 Real-time wildlife detection using MegaDetector v6
